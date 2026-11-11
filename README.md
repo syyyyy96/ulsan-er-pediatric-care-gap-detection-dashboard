@@ -9,6 +9,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-realtime_log-003B57?logo=sqlite&logoColor=white)
 ![Status](https://img.shields.io/badge/status-local_prototype-lightgrey)
 
+🏆 **「NEXT:AI DEVELOPER 온라인 부트캠프」 교육 과정 프로젝트 최우수상 수상**<br>
+<sub>한국표준협회 동남권 ICT 이노베이션 사업 · 2026년 11월</sub>
+
 </div>
 
 > [!WARNING]
@@ -21,6 +24,7 @@
 
 | 구분 | 내용 |
 |---|---|
+| 수상 | 한국표준협회 동남권 ICT 이노베이션 사업 「NEXT:AI DEVELOPER 온라인 부트캠프」 교육 과정 프로젝트 **최우수상** (2026년 11월) |
 | 대상 지역 | 울산광역시 (중구·남구·동구·북구·울주군) |
 | 분석 지점 | **1,414개** 병·의원 위치 |
 | 비교 대상 기관 | 소아 전문 의원 39곳(기관명에 '소아' 포함), 응급의료기관 13곳 |
