@@ -84,8 +84,8 @@
 
 ### 1. 설치
 ```sh
-git clone https://github.com/syyyyy96/ulsan-essential-care.git
-cd ulsan-essential-care
+git clone https://github.com/syyyyy96/ulsan-er-pediatric-care-gap-detection-dashboard.git
+cd ulsan-er-pediatric-care-gap-detection-dashboard
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
