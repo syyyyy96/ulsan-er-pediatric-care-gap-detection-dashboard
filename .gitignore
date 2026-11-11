@@ -1,0 +1,41 @@
+# ===== 비밀 정보 (절대 커밋 금지) =====
+.env
+.env.*
+!.env.example
+
+# ===== 가상환경·캐시 =====
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# ===== 수집·원자료 (공공데이터 이용조건 확인 전에는 올리지 않음) =====
+data/raw/
+data/processed/
+data/demo/
+data/processed_demo/
+data/inspect_report.txt
+*.sqlite3
+
+# ===== 재생성 가능한 결과물 / 시험용 =====
+# outputs/ 아래 하위 폴더는 전부 제외하되, 그래프(charts)만 예외로 올립니다.
+# (한글 폴더명은 맥에서 자모 분리 형태라 이름 대신 와일드카드로 제외합니다)
+# outputs/index.html, outputs/configure.html 은 직접 만든 화면이라 올립니다.
+outputs/*/
+!outputs/charts/
+outputs/report_draft.html
+outputs/index_analysis.html
+outputs/index_before_interactive_map.html
+outputs_demo/
+
+# ===== 제출용 파일 (실명 포함) =====
+make_submission_zip.py
+*.zip
+*.pdf
+*.pptx
+*.hwp
+*.xlsx
+실시간병상_API_설정.txt
+*.backup
